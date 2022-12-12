@@ -116,7 +116,7 @@ def get_ingredients_recipe_url_dict(meal_type,index):
     available_files = list()
     for file in files:
         file_name = os.path.basename(file)
-        option_string = file_name.lstrip(meal_type.replace('_recipes','')).replace('.txt','').lstrip(' ')
+        option_string = file_name.replace('.txt','')
         if option_string != '':
             available_options.append(option_string)
             available_files.append(file)

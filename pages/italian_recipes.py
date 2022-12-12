@@ -14,7 +14,7 @@ files = glob.glob(fpath + os.sep + "*.txt")
 types_of_recipes = list()
 for file in files:
     file_name = os.path.basename(file)
-    option_string = file_name.lstrip(meal_type.replace('_recipes','')).replace('.txt','').lstrip(' ').title()
+    option_string = file_name.replace('.txt','').title()
     if option_string != '':
         types_of_recipes.append(option_string)
 
