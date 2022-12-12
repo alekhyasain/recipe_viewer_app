@@ -30,8 +30,6 @@ def find_recipes_with_ingredient(ingr):
 
     return final_recipe_dict
 
-find_recipes_with_ingredient("brussel sprouts")
-
 def intersection(lst1, lst2):
     return list(set(lst1) & set(lst2))
 
