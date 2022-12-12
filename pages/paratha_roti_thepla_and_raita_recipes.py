@@ -7,8 +7,7 @@ import find_recipes_based_on_ingredient as fri
 if "shared" not in st.session_state:
    st.session_state["shared"] = True
 meal_type = 'paratha_roti_thepla_and_raita_recipes'
-st.title(f"Get recipe links from {meal_type}")
-
+st.title(f"{meal_type}".capitalize())
 fpath = r"segregated_recipes" + os.sep + meal_type
 files = glob.glob(fpath + os.sep + "*.txt")
 types_of_recipes = list()
