@@ -28,7 +28,8 @@
         "Vegan puran poli": "all purpose flour, sooji,rice flour, oil,chana dal,jaggery,cardomom",
         "almond Rasmalai": "cashews, lemon juice, maple syrup,rose water,cardomom,pistachios",
         "Lebanese Baklava Vegan": "vegan phyllo sheets,sugar,walnuts,almonds,pistachios",
-        "Sweet Appam": "rice flour,jaggery,bananas,coconut,ghee"
+        "Sweet Appam": "rice flour,jaggery,bananas,coconut,ghee",
+        "Dry Fruits Ladoo": "dates,almonds,raisins,cashews,dried figs, shredded coconut,green cardamoms"
     },
     "recipe_url": {
         "Carrot halwa": "https://www.indianhealthyrecipes.com/carrot-halwa-recipe-gajar-ka-halwa-recipe/",
@@ -59,6 +60,7 @@
         "Vegan puran poli": "https://holycowvegan.net/puran-poli-for-chalks-and-chopsticks/",
         "almond Rasmalai": "https://www.unconventionalbaker.com/recipes/vegan-rasmalai-recipe/",
         "Lebanese Baklava Vegan": "https://www.pinterest.com/pin/496592296424217017/",
-        "Sweet Appam": "https://www.vegrecipesofindia.com/banana-appam-recipe-banana-paniyaram/#wprm-recipe-container-135392"
+        "Sweet Appam": "https://www.vegrecipesofindia.com/banana-appam-recipe-banana-paniyaram/#wprm-recipe-container-135392",
+        "Dry Fruits Ladoo": "https://www.vegrecipesofindia.com/dry-fruits-ladoo-recipe/#wprm-recipe-container-138958"
     }
 }

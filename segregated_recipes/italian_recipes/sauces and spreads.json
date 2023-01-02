@@ -9,7 +9,8 @@
         "Creamy Cilantro Lime Dressing": "cilantro leaves, white wine vinegar, olive oil, garlic, lime juice, honey, dijon mustard, avocado",
         "Air Fried Sun dried tomatoes": "grape tomatoes,olive oil",
         "Creamy Avocado Walnut Pesto": "avocado,basil,walnuts,parmesan,lemon juice,olive oil,garlic",
-        "Vegan Mushroom Gravy": "mushrooms dried,onion,garlic,all purpose flour,tomato paste,soy sauce,veg broth,coconut milk,dried thyme,dried rosemary"
+        "Vegan Mushroom Gravy": "mushrooms dried,onion,garlic,all purpose flour,tomato paste,soy sauce,veg broth,coconut milk,dried thyme,dried rosemary",
+        "Tofu Ricotta": "firm tofu,nutritional yeast,olive oil,garlic,dried herbs,milk,brocolli or veggies,spinach"
     },
     "recipe_url": {
         "Vegan Alfredo Sauce": "https://drive.google.com/file/d/1GlSYApNmZTK7Ug0Gk94b_0tfLdq2CJ01/view?usp=sharing",
@@ -21,6 +22,7 @@
         "Creamy Cilantro Lime Dressing": "https://sweetpeasandsaffron.com/creamy-cilantro-lime-dressing/",
         "Air Fried Sun dried tomatoes": "https://www.allrecipes.com/recipe/283222/air-fryer-sun-dried-tomatoes/",
         "Creamy Avocado Walnut Pesto": "http://thymeandtoast.com/creamy-avocado-walnut-pesto/",
-        "Vegan Mushroom Gravy": "https://veganheaven.org/recipe/vegan-gravy/#wprm-recipe-container-12618"
+        "Vegan Mushroom Gravy": "https://veganheaven.org/recipe/vegan-gravy/#wprm-recipe-container-12618",
+        "Tofu Ricotta": "https://thehiddenveggies.com/ricotta/#recipe"
     }
 }
