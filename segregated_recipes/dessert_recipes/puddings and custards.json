@@ -22,7 +22,8 @@
         "Chocolate chia pudding with strawberries": "almond milk,chia seeds,cocoa powder,maple syrup,vanilla extract,strawberries",
         "Vegan Creme Brulee": "firm tofu,maple syrup,coconut cream,corn starch,vanilla extract,sugar",
         "Matcha lime panna cotta": "coconut milk,soy milk,gelatin,sugar,stevia,matcha powder,vanilla extract, lime juice,lime peel",
-        "Cookies and Cream Baked Oats": "banana, oats maple syrup, cocoa powder, baking powder, vanilla extract, oat milk"
+        "Cookies and Cream Baked Oats": "banana, oats maple syrup, cocoa powder, baking powder, vanilla extract, oat milk",
+        "Almond Milk Pudding": "almond milk,sugar,cocoa powder,vanilla extract,corn starch"
     },
     "recipe_url": {
         "Vegan custard": "https://theplantbasedschool.com/vegan-custard/",
@@ -47,6 +48,7 @@
         "Chocolate chia pudding with strawberries": "https://drive.google.com/file/d/1vyKqz4cVO0cuDFCpqMWhlV7XlPeM863x/view?usp=sharing",
         "Vegan Creme Brulee": "https://drive.google.com/file/d/1tG2pYucFBU4vQuUrz7kiK69zI0DAuNyl/view?usp=sharing",
         "Matcha lime panna cotta": "https://drive.google.com/file/d/1Zg0wn6ZRb-MVZ8IT5NoxhsKDyaxV4OE2/view?usp=sharing",
-        "Cookies and Cream Baked Oats": "https://www.pinterest.co.uk/pin/496592296424217093/"
+        "Cookies and Cream Baked Oats": "https://www.pinterest.co.uk/pin/496592296424217093/",
+        "Almond Milk Pudding": "https://thebigmansworld.com/almond-milk-pudding/#recipe"
     }
 }

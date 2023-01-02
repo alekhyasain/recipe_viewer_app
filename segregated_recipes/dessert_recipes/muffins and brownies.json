@@ -22,7 +22,8 @@
         "Banana Apple Muffins": "eggs,banana,butter,almond flour,baking soda,apple",
         "Blueberry Maple Muffins": "whole wheat flour,all purpose flour,wheat germ,baking soda and powder, cinnamon,eggs,maple syrup,buttermilk,coconut milk,vanilla extract,blueberries",
         "Cinnamon Roll Muffins": "sugar,coconut milk beverage,maple syrup,ghee,egg,cinnamon,vanilla extract, gluten free all purpose flour,almond flour,baking powder,sour cream reduced fat,powdered sugar",
-        "Peanut Butter Brownie Cups No bake": "almond flour,peanut butter,cocoa powder,maple syrup,vanilla extract,coconut oil,chocolate chips"
+        "Peanut Butter Brownie Cups No bake": "almond flour,peanut butter,cocoa powder,maple syrup,vanilla extract,coconut oil,chocolate chips",
+        "Vegan and Gluten Free Millionaires Shortbread cups": "gluten free flour,almond flour,coconut oil,maple syrup,almond milk,peanut butter,vanilla extract,chocolate chips"
     },
     "recipe_url": {
         "Applesauce oat muffins": "https://tastesbetterfromscratch.com/healthy-applesauce-oat-muffins/#recipe",
@@ -47,6 +48,7 @@
         "Banana Apple Muffins": "https://drive.google.com/file/d/1eEFPr28WUuqdoF8xp2KMbFPlvCn-tACJ/view?usp=share_link",
         "Blueberry Maple Muffins": "https://drive.google.com/file/d/1kfS2VFMKm1dIhcQt9m81ZSK_JHAS07c9/view?usp=share_link",
         "Cinnamon Roll Muffins": "https://drive.google.com/file/d/1_VEuV4Q3p8RjL7prIA06TU-ekYTE47i_/view?usp=share_link",
-        "Peanut Butter Brownie Cups No bake": "https://www.purelykaylie.com/no-bake-peanut-butter-brownie-cups/#tasty-recipes-14411-jump-target"
+        "Peanut Butter Brownie Cups No bake": "https://www.purelykaylie.com/no-bake-peanut-butter-brownie-cups/#tasty-recipes-14411-jump-target",
+        "Vegan and Gluten Free Millionaires Shortbread cups": "https://upbeetandkaleingitblog.com/vegan-and-gluten-free-millionaires-shortbread-cups/"
     }
 }
