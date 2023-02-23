@@ -15,7 +15,15 @@
         "Mini Apple Pies": "graham crackers,maple syrup,coconut oil, granny smith apples,sugar, cinnamon, nutmeg, corn starch,lemon juice",
         "Vegan chocolate cream pie": "Store bought pie crust, chocolate chips, full fat coconut milk, cashew butter, instant coffee, almond whipped cream",
         "Vegan chocolate avocado pie no bake": "almonds, shredded coconut, cocoa powder, maple syrup, coconut oil, avocado, almond milk, coconut yogurt, dark chocolate chunks",
-        "Vegan Peach Cobbler": "peaches, sugar,cornstarch, vegan butter, vanilla extract, soy milk, flour,baking powder"
+        "Vegan Peach Cobbler": "peaches, sugar,cornstarch, vegan butter, vanilla extract, soy milk, flour,baking powder",
+        "Vegan Chai spiced crene brulee": "cashews,coconut milk,maple syrup,vanilla extract,nutmeg,ginger powder,nutmeg,cardamom,sugar",
+        "Salted Caramel Tartlets": "plain flour,sugar,vegan butter,coconut cream",
+        "Mini pineapple upside down cake": "whole wheat flour,all purpose flour,corn flour,sugar,brown sugar,baking powder and soda,vinegar,pineapple juice,crushed pineapple,vegan butter,maraschino cherries",
+        "No Bake Chocolate tart with pistachio paste": "pecans,cocoa powder,maple syrup,pistachios,maple syrup,vanilla extract,matcha powder,coconut milk,dark chocolate,maple syrup",
+        "Salted Dark Chocolate Tarts": "dark chocolate,coconut oil,almond flour,coconut milk,coconut oil,vanilla extract,maple syrup",
+        "No-Bake Chocolate Cream Pie": "almonds,cocoa powder,coconut oil,almond milk,dates",
+        "Chocolate Coconut Tart": "shredded coconut, almond flour,coconut oil,sugar,coconut milk,bittersweet chocolate,vanilla extract,almonds,pistachios,raspberries",
+        "Homemade Peanut Butter Cups": "dates,peanut butter,almond flour,chocolate chips,coconut oil"
     },
     "recipe_url": {
         "Mini Keto Lemon tarts": "https://ketocookingchristian.com/mini-lemon-curd-tarts-keto-low-carb-gluten-free/?fbclid=IwAR04pjAkWHHEKjA07UB2EXHzxSZ1fjcllnoeseNp8iUwD4qWzyTb_US3BKY",
@@ -33,6 +41,14 @@
         "Mini Apple Pies": "https://drive.google.com/file/d/1EfDS_E7l66s4Fgyt-aTYWw7rdR86KTFW/view?usp=sharing",
         "Vegan chocolate cream pie": "https://thevegan8.com/vegan-chocolate-cream-pie/\\",
         "Vegan chocolate avocado pie no bake": "https://www.theconsciousplantkitchen.com/chocolate-avocado-pie-vegan-keto/",
-        "Vegan Peach Cobbler": "https://www.noracooks.com/vegan-peach-cobbler/"
+        "Vegan Peach Cobbler": "https://www.noracooks.com/vegan-peach-cobbler/",
+        "Vegan Chai spiced crene brulee": "https://minimalistbaker.com/vegan-chai-spiced-creme-brulee/",
+        "Salted Caramel Tartlets": "https://www.thelittleblogofvegan.com/2021/10/6-ingredient-salted-caramel-tartlets.html",
+        "Mini pineapple upside down cake": "http://hariniscorner.blogspot.com/2015/02/vegan-mini-pineapple-upside-down-cake.html?utm_source=BP_recent&m=1",
+        "No Bake Chocolate tart with pistachio paste": "https://addictedtodates.com/dark-chocolate-pistachio-tart/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=1154235426_56751316_407136#wprm-recipe-container-2353",
+        "Salted Dark Chocolate Tarts": "https://shortgirltallorder.com/salted-dark-chocolate-tarts",
+        "No-Bake Chocolate Cream Pie": "https://feastingonfruit.com/no-bake-vegan-chocolate-cream-pie-2/#tasty-recipes-20678-jump-target",
+        "Chocolate Coconut Tart": "https://aclassictwist.com/chocolate-raspberry-coconut-almond-tart-gluten-free-vegan/#mv-creation-299-jtr",
+        "Homemade Peanut Butter Cups": "https://butternutbakeryblog.com/homemade-peanut-butter-cups/"
     }
 }

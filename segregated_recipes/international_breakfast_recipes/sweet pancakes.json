@@ -6,7 +6,9 @@
         "Cashew N Oat Hotcakes": "rolled oats, cashews,sugar,cinnamon,baking powder, large egg,coconut oil,almond milk,mixed berries,vanilla extract",
         "Crepes your way Pancakes": "eggs,almond milk,sugar,coconut flour",
         "Fruit Pizza": "Cashew N Oat Hotcakes above,vanilla yogurt,mixed fruit",
-        "Banana Boats": "rolled oats,dried cranberries,pecans, pumpkin seeds,shredded coconut,maple syrup,ghee,vanilla extract,cinnamon,nutmeg,large bananas,greek yogurt,berries,honey"
+        "Banana Boats": "rolled oats,dried cranberries,pecans, pumpkin seeds,shredded coconut,maple syrup,ghee,vanilla extract,cinnamon,nutmeg,large bananas,greek yogurt,berries,honey",
+        "Apple cinnamon crepes": "oats,rice flour,corn starch,sugar,baking powder,almond milk,banana,lemon juice,vanilla extract,apples,sugar,almond milk,cinnamon",
+        "Vegan Apple cake pancakes": "applesauce,all purpose flour,almond milk,sugar,coconut oil,baking powder and soda,lemon juice,cinnamon,vanilla extract,apple,chocolate chunks"
     },
     "recipe_url": {
         "Ricotta pancakes with mixed berry compote": "https://drive.google.com/file/d/1iAHxJkf6TOOrUmB7_YUOJyad0GtIOPYY/view?usp=sharing",
@@ -15,6 +17,8 @@
         "Cashew N Oat Hotcakes": "https://drive.google.com/file/d/13y5o0GTChUQQONd0zjvwDpPiYdxMxCUs/view?usp=share_link",
         "Crepes your way Pancakes": "https://drive.google.com/file/d/1XLgE7hkBbBZHIvFj9MWe4zotCjd9xgOL/view?usp=share_link",
         "Fruit Pizza": "https://drive.google.com/file/d/1MnT5Ut1FPTNov3FJqMsk_-9i9bRx1yUR/view?usp=share_link",
-        "Banana Boats": "https://drive.google.com/file/d/1hpdA5Xv94nOvwOZuutM7JtSNfivsoEPo/view?usp=share_link"
+        "Banana Boats": "https://drive.google.com/file/d/1hpdA5Xv94nOvwOZuutM7JtSNfivsoEPo/view?usp=share_link",
+        "Apple cinnamon crepes": "https://elavegan.com/apple-cinnamon-crepes-vegan-gluten-free/#recipe",
+        "Vegan Apple cake pancakes": "https://oatsbaker.com/the-fluffiest-vegan-apple-cake-pancakes-recipe-fluffy-tips/#wpzoom-premium-recipe-card"
     }
 }

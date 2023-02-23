@@ -1,10 +1,12 @@
 {
     "ingredients": {
         "Vegan Tofu omelets": "silken tofu,nutritional yeast,onion powder,gluten free all purpose flour",
-        "Chinese style Breakfast pancakes": "all purpose flour, extra firm tofu, carrot,red bell peppers, spice powder, roasted sesame seeds"
+        "Chinese style Breakfast pancakes": "all purpose flour, extra firm tofu, carrot,red bell peppers, spice powder, roasted sesame seeds",
+        "Vegan Spinach Quiche": "all purpose flour,vegan butter,egg,non dairy cream,leek,spinach,silken tofu,nutritional yeast,besan,vegan feta cheese"
     },
     "recipe_url": {
         "Vegan Tofu omelets": "https://drive.google.com/file/d/1K4zGtrgQgMUzDXEP8y7LB_gjJUgl7EOk/view?usp=sharing",
-        "Chinese style Breakfast pancakes": "https://thefoodietakesflight.com/chinese-style-savoury-stuffed-breakfast-pancakes-vegan-recipe/"
+        "Chinese style Breakfast pancakes": "https://thefoodietakesflight.com/chinese-style-savoury-stuffed-breakfast-pancakes-vegan-recipe/",
+        "Vegan Spinach Quiche": "https://biancazapatka.com/en/vegan-spinach-quiche/#recipe"
     }
 }

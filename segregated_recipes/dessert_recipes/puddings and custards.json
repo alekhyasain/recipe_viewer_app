@@ -23,7 +23,10 @@
         "Vegan Creme Brulee": "firm tofu,maple syrup,coconut cream,corn starch,vanilla extract,sugar",
         "Matcha lime panna cotta": "coconut milk,soy milk,gelatin,sugar,stevia,matcha powder,vanilla extract, lime juice,lime peel",
         "Cookies and Cream Baked Oats": "banana, oats maple syrup, cocoa powder, baking powder, vanilla extract, oat milk",
-        "Almond Milk Pudding": "almond milk,sugar,cocoa powder,vanilla extract,corn starch"
+        "Almond Milk Pudding": "almond milk,sugar,cocoa powder,vanilla extract,corn starch",
+        "Vegan chocolate pudding": "coconut milk,cocoa powder,sugar or honey,milk,corn starch,chocolate chips,vanilla extract",
+        "Vegan chcocolate ganache": "coconut milk,chocolate chips",
+        "Avocado Lime pudding cups": "coconut milk,avocado,sugar,lime juice,lime zest,vanilla extract,coconut milk,powdered sugar"
     },
     "recipe_url": {
         "Vegan custard": "https://theplantbasedschool.com/vegan-custard/",
@@ -49,6 +52,9 @@
         "Vegan Creme Brulee": "https://drive.google.com/file/d/1tG2pYucFBU4vQuUrz7kiK69zI0DAuNyl/view?usp=sharing",
         "Matcha lime panna cotta": "https://drive.google.com/file/d/1Zg0wn6ZRb-MVZ8IT5NoxhsKDyaxV4OE2/view?usp=sharing",
         "Cookies and Cream Baked Oats": "https://www.pinterest.co.uk/pin/496592296424217093/",
-        "Almond Milk Pudding": "https://thebigmansworld.com/almond-milk-pudding/#recipe"
+        "Almond Milk Pudding": "https://thebigmansworld.com/almond-milk-pudding/#recipe",
+        "Vegan chocolate pudding": "https://chocolatecoveredkatie.com/healthy-chocolate-pudding-recipe/",
+        "Vegan chcocolate ganache": "https://www.jessiskitchen.com/vegan-ganache-frosting/#tasty-recipes-6896-jump-target",
+        "Avocado Lime pudding cups": "https://freshwaterpeaches.com/vegan-lime-pudding-cups/#recipe"
     }
 }

@@ -2,11 +2,13 @@
     "ingredients": {
         "Cauliflower Curry": "coconut oil, onion,ginger,garlic,tomatoes,coconut milk,cauliflower,chickpeas,peas,brocollo, red peppers,potatoes,yellow curry powder",
         "Roasted Cauliflower Curry": "cauliflower,greek dahi,lemon juice,tomato sauce,whipping cream, garlic",
-        "Cauliflower and Potato Ghassi": "cauliflower,coconut,coriander,ginger,onions,potato,tamarind,"
+        "Cauliflower and Potato Ghassi": "cauliflower,coconut,coriander,ginger,onions,potato,tamarind,",
+        "Cauliflower Tikka Masala": "cauliflower,onion,garlic,ginger,jalapeno,tomatoes,red bell pepper,coconut milk,garam masala,cashews"
     },
     "recipe_url": {
         "Cauliflower Curry": "https://www.theendlessmeal.com/cauliflower-curry/",
         "Roasted Cauliflower Curry": "https://www.savorytooth.com/cauliflower-curry/",
-        "Cauliflower and Potato Ghassi": "https://www.tarladalal.com/cauliflower-and-potato-ghassi-1973r"
+        "Cauliflower and Potato Ghassi": "https://www.tarladalal.com/cauliflower-and-potato-ghassi-1973r",
+        "Cauliflower Tikka Masala": "https://vegetariangastronomy.com/cauliflower-tikka-masala/"
     }
 }

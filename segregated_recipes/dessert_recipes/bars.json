@@ -15,7 +15,8 @@
         "Almond Chocolate Squares": "oat flour,almond flour,vanilla shakeology,almond butter,vanilla extract,almond milk,dark chocolate chips",
         "Chewy Whole grain bars": "rolled oats,quinoa,chia seeds,flax seeds, almond butter,cinnamon,maple syrup, banana,vanilla extract, raisins,apricots,cherries, sunflower seeds,walnuts,chocolate chips",
         "Creamy Vegan lemon bars": "cashews,coconut cream,cornstarch,lemon juice,lemon zest,maple syrup,powdered sugar,oats,almonds,coconut oil",
-        "Kit Kat Bars": "almond flour,sugar,flaxseed powder,coconut oil,vanilla extract,dark chocolate,peanut butter"
+        "Kit Kat Bars": "almond flour,sugar,flaxseed powder,coconut oil,vanilla extract,dark chocolate,peanut butter",
+        "Vegan Lemon Bars": "vegan butter,sugar,all purpose flour,lemon juice,lemon zest,coconut milk,corn starch,turmeric"
     },
     "recipe_url": {
         "Chocolate Almond Butter Bars": "https://www.breesveganlife.com/chocolate-almond-butter-bars-no-bake/?fbclid=IwAR01nP-nGxRc6CZDEIGr38viZbiw8Y9tVexNHMtmc-wHE1J-pkb_i98OC5M",
@@ -33,6 +34,7 @@
         "Almond Chocolate Squares": "https://drive.google.com/file/d/1FmjM6S3Ps2kMcx1b-0GTNJUSzZsNmHqI/view?usp=sharing",
         "Chewy Whole grain bars": "https://drive.google.com/file/d/1_RJ4nxcVWLFfn8V6iOdNE3ppTi0Ju-zO/view?usp=sharing",
         "Creamy Vegan lemon bars": "https://minimalistbaker.com/creamy-vegan-lemon-bars/",
-        "Kit Kat Bars": "https://bakeitpaleo.com/healthy-kit-kat-recipe/#tasty-recipes-27910-jump-target"
+        "Kit Kat Bars": "https://bakeitpaleo.com/healthy-kit-kat-recipe/#tasty-recipes-27910-jump-target",
+        "Vegan Lemon Bars": "https://www.noracooks.com/vegan-lemon-bars/"
     }
 }

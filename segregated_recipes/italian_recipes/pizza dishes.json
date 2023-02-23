@@ -16,7 +16,8 @@
         "Grilled Veggie Pizza yeast free crust": "all purpose flour,baking powder,tomato puree,dried oregano, dried basil, zucchini,red bell pepper,mushrooms,red onion,vegan cheese",
         "Vegan Pepperoni Pizza": "gluten free flour,baking powder,tomato paste,zucchini,hot sauce,tamari,balsamic vinegar,vegan cheese",
         "Vegan BBQ Pizza": "ketchup,brown sugar,apple cider vinegar, onion,zucchini,portabella mushrooms,potato,ginger,cauliflower,whole wheat pastry flour,all purpose flour,yeast",
-        "Buffalo Chickpea Pizza white garlic sauce": "pizza dough,hot sauce,chickpeas,sriracha,cashew,almond milk,flour,garlic,onion powder,nutritional yeast,apple cider vinegar"
+        "Buffalo Chickpea Pizza white garlic sauce": "pizza dough,hot sauce,chickpeas,sriracha,cashew,almond milk,flour,garlic,onion powder,nutritional yeast,apple cider vinegar",
+        "Vegan carmelized onion spinach pizza rolls": "almond milk,sugar,active dry yeast,oregano,oil,garlic powder,basil dried,all purpose flour,onion,spinach,vegan butter,tomato sauce,basil,nutritional yeast"
     },
     "recipe_url": {
         "Tandoori Paneer Pizza": "https://www.tarladalal.com/tandoori-paneer-pizza-paneer-tikka-pizza-6238r",
@@ -35,6 +36,7 @@
         "Grilled Veggie Pizza yeast free crust": "https://www.elephantasticvegan.com/grilled-veggie-pizza-yeast-free-crust/#recipe",
         "Vegan Pepperoni Pizza": "https://www.contentednesscooking.com/vegan-pepperoni-pizza/#mv-creation-16-jtr",
         "Vegan BBQ Pizza": "https://veganinthefreezer.com/vegan-bbq-veggie-pizza/",
-        "Buffalo Chickpea Pizza white garlic sauce": "https://www.veganricha.com/buffalo-chickpea-pizza-white-garlic-sauce-celery-ranch-vegan-recipe/"
+        "Buffalo Chickpea Pizza white garlic sauce": "https://www.veganricha.com/buffalo-chickpea-pizza-white-garlic-sauce-celery-ranch-vegan-recipe/",
+        "Vegan carmelized onion spinach pizza rolls": "https://shortgirltallorder.com/vegan-caramelized-onion-spinach-pizza-buns"
     }
 }

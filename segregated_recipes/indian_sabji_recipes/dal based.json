@@ -28,7 +28,11 @@
         "Bengali Matarsurthi Dal": "green peas",
         "Moong Dal Mughlai": "green moong dal, onion,green chillies,ginger,dry red chillies,cloves,lemon wedges",
         "Dal Bati Churma": "urad dal, toor dal, chana dal, split green gram,tomato puree, semolina, sugar,ghee,chopped nuts,whole wheat flour,dahi,shelled peas",
-        "Litti Chokha": "jowar flour,dahi,sattu,achar masala,garlic,onion,brinjal,potatoes,tomatoes"
+        "Litti Chokha": "jowar flour,dahi,sattu,achar masala,garlic,onion,brinjal,potatoes,tomatoes",
+        "Red lentil dal with coconut milk": "onion,garlic,ginger,garm masala,tomatoes,red split lentils,veg broth,coconut milk",
+        "Creamy coconut lentil curry": "green lentils,coconut milk,garlic,ginger,tomatoes,cilantro",
+        "Black Bean curry": "plant based spread,onion,garlic,tomatoes,garam masala,black beans,veg stock,coconut cream",
+        "Lentil dal with spinach": "onion,garlic,ginger,jalapeno,fennel seeds,spinach,yogurt,black lentils"
     },
     "recipe_url": {
         "Methi Leaves Sambar": "https://www.tarladalal.com/methi-leaves-sambhar-5708r",
@@ -59,6 +63,10 @@
         "Bengali Matarsurthi Dal": "https://www.tarladalal.com/bengali-matarsutir-dal-healthy-green-peas-dal-35117r",
         "Moong Dal Mughlai": "https://www.chefkunalkapur.com/recipe/moong-dal-mughlai/",
         "Dal Bati Churma": "https://samirasrecipe.com/dal-bati-churma/?fbclid=IwAR2gd_yYk1gf8OxQluHyaDCJLZiJOI-t_fF23eR1dP2diZN4NTkFXzCk9TI",
-        "Litti Chokha": "https://samirasrecipe.com/litti-chokha-recipe-gluten-free-jowar-litti/?fbclid=IwAR0y0v2iaemmljj8dNJOUDb7gOqdZN9286WX74SUy-coEF6YYMC2gunGFBM"
+        "Litti Chokha": "https://samirasrecipe.com/litti-chokha-recipe-gluten-free-jowar-litti/?fbclid=IwAR0y0v2iaemmljj8dNJOUDb7gOqdZN9286WX74SUy-coEF6YYMC2gunGFBM",
+        "Red lentil dal with coconut milk": "https://wholefoodsoulfoodkitchen.com/easy-1-pot-vegan-red-lentil-dahl/#recipe",
+        "Creamy coconut lentil curry": "https://www.theguccha.com/creamy-coconut-lentil-curry/",
+        "Black Bean curry": "https://www.thefieryvegetarian.com/black-bean-curry/",
+        "Lentil dal with spinach": "https://www.feastingathome.com/lentil-dal-with-spinach/"
     }
 }

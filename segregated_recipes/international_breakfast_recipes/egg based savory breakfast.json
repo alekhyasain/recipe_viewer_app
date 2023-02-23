@@ -10,7 +10,8 @@
         "Savory Poached Eggs": "Shakshuka",
         "Southwest Breakfast Scramble": "poblano chillies,eggs,egg whites,onion,red potato,homemade salsa,cilantro,avocado",
         "Vegan Egg Souffles": "bell peppers,brocolli,onion,silken tofu,nutritional yeast,onion powder,all purpose flour,chives",
-        "Veggie Quiche": "egg,flaxseed powder,brown rice,mixed veggies,tarragon"
+        "Veggie Quiche": "egg,flaxseed powder,brown rice,mixed veggies,tarragon",
+        "Vegan Vegetable Frittata": "potatoes,onion,bell pepper,zucchini,garlic,tomatoes,silken tofu,almond milk,cornstarch,nutritional yeast,mustard,tarragon"
     },
     "recipe_url": {
         "Veg Cheese Omelette": "https://www.tarladalal.com/veg-cheese-omelette-breakfast-recipe-42144r",
@@ -23,6 +24,7 @@
         "Savory Poached Eggs": "(tomatoes,onion,garlic,caraway,bell pepper,jalapeno,kale,eggs,kalamata olives,whole wheat pitas",
         "Southwest Breakfast Scramble": "https://drive.google.com/file/d/1j_qO3wV4Er6bwISxdw3wxtj2fD-K4U9s/view?usp=sharing",
         "Vegan Egg Souffles": "https://drive.google.com/file/d/1bislKoYlmKHEiAmzKtAjf9yQtTlVfFc9/view?usp=sharing",
-        "Veggie Quiche": "https://drive.google.com/file/d/1HcdnpotQVgcarqz-gaxO7Ufb7stESM_6/view?usp=sharing"
+        "Veggie Quiche": "https://drive.google.com/file/d/1HcdnpotQVgcarqz-gaxO7Ufb7stESM_6/view?usp=sharing",
+        "Vegan Vegetable Frittata": "https://simple-veganista.com/vegan-vegetable-frittata/#tasty-recipes-8594-jump-target"
     }
 }

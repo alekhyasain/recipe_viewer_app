@@ -4,13 +4,15 @@
         "Mushroom Curry": "coriander,dahi,garlic,ginger,methi,mushroom,onion,tomato,",
         "Mushroom Masala": "coriander,dahi,garlic,ginger,mushroom,onion,",
         "Kadai Mushroom": "bell pepper,capsicum,coriander,garlic,ginger,methi,mushroom,onion,tomato,",
-        "Mushroom Butter Masala": "mushrooms,garlic,green chillies,ginger,onion,tomatoes,cashews,non dairy milk,butter"
+        "Mushroom Butter Masala": "mushrooms,garlic,green chillies,ginger,onion,tomatoes,cashews,non dairy milk,butter",
+        "Mushrrom curry with spinach and chickpeas": "onion,garlic,ginger,red chili pepper,methi powder,curry powder,tomatoes,coconut milk,chickpeas,mushrooms portobello,spinach"
     },
     "recipe_url": {
         "Mushroom Pepper Fry": "https://www.indianhealthyrecipes.com/mushroom-pepper-fry-easy-mushroom-recipes/",
         "Mushroom Curry": "https://www.tarladalal.com/mushroom-curry---cooking-under-10-minutes-1741r",
         "Mushroom Masala": "https://www.tarladalal.com/mushroom-curry-indian-mushroom-masala-curry-279r",
         "Kadai Mushroom": "https://www.indianhealthyrecipes.com/kadai-mushroom-gravy-recipe/",
-        "Mushroom Butter Masala": "http://www.cookwithkushi.com/mushroom-butter-masala/"
+        "Mushroom Butter Masala": "http://www.cookwithkushi.com/mushroom-butter-masala/",
+        "Mushrrom curry with spinach and chickpeas": "https://www.thelastfoodblog.com/mushroom-curry-spinach-chickpeas/#recipe"
     }
 }

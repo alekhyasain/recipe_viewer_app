@@ -8,7 +8,8 @@
         "Chana Aloo Masala": "chana,potato,onion",
         "Shahjahani Dal": "white chickpeas,shahjeera",
         "Kala Chana Sabji": "black chickpeas,onion.tomato",
-        "Chickpea potato tikka masala": "sugar,coconut oil,yellow onion,garlic,ginger,yellow potato,tomatoes,chickpeas,fire roasted tomatoes,frozen peas,red yellow orange bell pepper,jalapeno,cashews,lemon juice"
+        "Chickpea potato tikka masala": "sugar,coconut oil,yellow onion,garlic,ginger,yellow potato,tomatoes,chickpeas,fire roasted tomatoes,frozen peas,red yellow orange bell pepper,jalapeno,cashews,lemon juice",
+        "Butter chickpea and spinach curry": "onion,garlic,ginger,tomato puree,garam masala,ginger,coconut milk,chickpeas,spinach,yogurt"
     },
     "recipe_url": {
         "Peshawari Chole": "https://www.tarladalal.com/peshawari-chole-30881r",
@@ -19,6 +20,7 @@
         "Chana Aloo Masala": "https://www.tarladalal.com/chana-aloo-masala-punjabi-style-chole-aloo-masala-2182r",
         "Shahjahani Dal": "https://www.tarladalal.com/shahjahani-dal-37763r",
         "Kala Chana Sabji": "https://www.vegrecipesofindia.com/kala-chana-curry-recipe/",
-        "Chickpea potato tikka masala": "https://therecipewell.com/potato-chickpea-tikka-masala/#recipe"
+        "Chickpea potato tikka masala": "https://therecipewell.com/potato-chickpea-tikka-masala/#recipe",
+        "Butter chickpea and spinach curry": "https://www.madeleineshaw.com/lunch-dinner/butter-chickpea-amp-spinach-curry"
     }
 }

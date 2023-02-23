@@ -6,7 +6,10 @@
         "Vegetable Lasagna": "broccoli,capsicum,corn,flour,garlic,milk,onion,tomato,zucchini,",
         "Vegan Butternut Squash and Kale Lasagna": "butternut squash,cashews,garlic,oregano,lemons,basil,nutritional yeast, onion,kale,marinara,lasagna noodles,pinenuts,garlic powder",
         "Vegetarian Pizza Casserole": "zucchini,eggs,parmesan,vegan mozzarella,yellow onion,carrot, yellow onion,green pepper,carrot,button mushrooms,italian seasoning,marinara sauce,ricotta cheese",
-        "Vegan Lasagna Roll Ups": "onion,garlic,mushrooms,soy sauce,spinach,marinara sauce,lasaggna noodles,hummus,cumin,vegan cheese,lemon juice"
+        "Vegan Lasagna Roll Ups": "onion,garlic,mushrooms,soy sauce,spinach,marinara sauce,lasaggna noodles,hummus,cumin,vegan cheese,lemon juice",
+        "Vegan Spinach Lasagna": "spinach,lasagna sheets,pasta sauce,vegan mozarella,olive oil,nutritional yeast,firm tofu,lemon,garlic",
+        "Vegan Buffalo Chickpea Quesadillas": "cashews,yogurt,salsa,cumin,nutritional yeast,vegan butter,hot sauce,garlic powder,sugar,yellow onion,chickpeas,scallions",
+        "Vegan Lasagna Fritta": "Lasagna noodles,firm tofu,apple cider vinegar,italian seasoning,garlic powder,vegan mozarella,almond milk,all purpose flour,italian style bread crumbs,marinara sauce"
     },
     "recipe_url": {
         "Zucchini and Eggplant Lasagna": "https://www.tarladalal.com/zucchini-and-eggplant-lasagne-3294r",
@@ -15,6 +18,9 @@
         "Vegetable Lasagna": "https://www.tarladalal.com/vegetable-lasagne--indian-style-veg-lasagna-31090r",
         "Vegan Butternut Squash and Kale Lasagna": "http://www.makingthymeforhealth.com/vegan-butternut-squash-kale-lasagna/",
         "Vegetarian Pizza Casserole": "https://skinnyms.com/vegetarian-pizza-casserole/#wprm-recipe-container-545681",
-        "Vegan Lasagna Roll Ups": "https://elavegan.com/vegan-lasagna-roll-ups/#recipe"
+        "Vegan Lasagna Roll Ups": "https://elavegan.com/vegan-lasagna-roll-ups/#recipe",
+        "Vegan Spinach Lasagna": "https://www.fromthecomfortofmybowl.com/vegan-spinach-lasagna/",
+        "Vegan Buffalo Chickpea Quesadillas": "https://rainbowplantlife.com/vegan-buffalo-chickpea-quesadillas/?rq=buffalo#wprm-recipe-container-5545",
+        "Vegan Lasagna Fritta": "https://www.eatfigsnotpigs.com/vegan-lasagna-fritta/#recipejump"
     }
 }

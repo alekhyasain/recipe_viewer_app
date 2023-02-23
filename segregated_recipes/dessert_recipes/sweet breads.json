@@ -6,7 +6,9 @@
         "Banana Bread": "bananas,coconut oil,eggs,vanilla extract,all purpose flour,almond flour,baking powder,sugar",
         "Cloud Bread": "eggs,cream of tartar,greek yogurt",
         "Vegan Banana Bread": "Bananas, sugar, oil, cinnamon,nutmeg,vanilla extract,whole wheat flour, baking powder, baking soda",
-        "Pumpkin Bread": "whole wheat flour,all purpose flour,cinnamon,cloves,nutmeg,baking soda and powder,sugar,pumpkin puree,eggs,ghee,coconut milk"
+        "Pumpkin Bread": "whole wheat flour,all purpose flour,cinnamon,cloves,nutmeg,baking soda and powder,sugar,pumpkin puree,eggs,ghee,coconut milk",
+        "Vegan Lemon Bread": "flour,baking powder,baking soda,sugar,milk,yogurt,applesauce,lemon juice,lemon zest,vanilla extract",
+        "Peanut Butter Apple Crumble": "peanut butter,coconut oil,brown sugar,maple syrup,oat flour,rolled oats,baking powder,apples,maple syrup,lemon juice,corn starch,cinnamon"
     },
     "recipe_url": {
         "Vegan Lemon Loaf": "https://www.pinterest.co.uk/pin/496592296426702762/",
@@ -15,6 +17,8 @@
         "Banana Bread": "https://drive.google.com/file/d/18FQXxYJ3MUCYFXmU4LfcwlJ5XhSmBJu2/view?usp=sharing",
         "Cloud Bread": "https://drive.google.com/file/d/1nmoKHL4GAEbVyZ__lrPqdVAf3JpCrRXA/view?usp=sharing",
         "Vegan Banana Bread": "https://www.vegrecipesofindia.com/banana-bread-eggless-vegan-recipe/",
-        "Pumpkin Bread": "https://drive.google.com/file/d/1Ru4I6rjkQbmwhxl5Vg4r-iErb66VHpyR/view?usp=sharing"
+        "Pumpkin Bread": "https://drive.google.com/file/d/1Ru4I6rjkQbmwhxl5Vg4r-iErb66VHpyR/view?usp=sharing",
+        "Vegan Lemon Bread": "https://chocolatecoveredkatie.com/vegan-lemon-bread-recipe/",
+        "Peanut Butter Apple Crumble": "https://www.texanerin.com/peanut-butter-apple-crumble/"
     }
 }

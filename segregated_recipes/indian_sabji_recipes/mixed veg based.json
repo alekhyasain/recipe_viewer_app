@@ -9,7 +9,8 @@
         "Veg Tawa Fry": "beans,bhindi,bitter gourd,brinjal,carrot,coriander,garlic,ginger,methi,okra,onion,potato,tomato,",
         "White Kurma": "aloo,beans,carrot,coconut,coriander,ginger,onion,peas,potato,",
         "Mix Vegetable": "onion,peas,carrots,cauliflower,french beans,potato",
-        "Veggie Tikka Masala": "yellow onion,garlic,ginger,tomato, tomato sauce,dahi,coconut milk,cauliflower,carrot,chickpeas,frozen peas"
+        "Veggie Tikka Masala": "yellow onion,garlic,ginger,tomato, tomato sauce,dahi,coconut milk,cauliflower,carrot,chickpeas,frozen peas",
+        "Mixed Vegetarian Korma": "yellow onion,ginger,garlic,potatoes,carrots,cashews,tomato sauce,curry powder,green peas,green bell pepper,red bell pepper"
     },
     "recipe_url": {
         "Vegetable Hariyali": "https://www.tarladalal.com/vegetable-hariyali-22794r",
@@ -21,6 +22,7 @@
         "Veg Tawa Fry": "https://hebbarskitchen.com/veg-tawa-fry-recipe-tawa-sabzi/",
         "White Kurma": "https://hebbarskitchen.com/white-kurma-recipe-white-veg-kurma-white/",
         "Mix Vegetable": "https://indianambrosia.com/mixed-vegetable-curry/",
-        "Veggie Tikka Masala": "https://foodwithfeeling.com/loaded-veggie-tikka-masala/"
+        "Veggie Tikka Masala": "https://foodwithfeeling.com/loaded-veggie-tikka-masala/",
+        "Mixed Vegetarian Korma": "https://lifemadefull.com/recipe/vegetarian-korma-recipe/"
     }
 }

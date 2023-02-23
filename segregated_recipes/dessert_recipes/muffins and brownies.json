@@ -24,7 +24,16 @@
         "Cinnamon Roll Muffins": "sugar,coconut milk beverage,maple syrup,ghee,egg,cinnamon,vanilla extract, gluten free all purpose flour,almond flour,baking powder,sour cream reduced fat,powdered sugar",
         "Peanut Butter Brownie Cups No bake": "almond flour,peanut butter,cocoa powder,maple syrup,vanilla extract,coconut oil,chocolate chips",
         "Vegan and Gluten Free Millionaires Shortbread cups": "gluten free flour,almond flour,coconut oil,maple syrup,almond milk,peanut butter,vanilla extract,chocolate chips",
-        "Vegan Carrot Cake Muffins with maple orange frosting": "cashews,maple syrup,coconut oil,orange juice,orange zest,vanilla extract,oat flour,sugar,oats,baking powder and soda,cinnamon powder,ginger powder,nutmeg,goji berries or raisins,almond milk,carrot"
+        "Vegan Carrot Cake Muffins with maple orange frosting": "cashews,maple syrup,coconut oil,orange juice,orange zest,vanilla extract,oat flour,sugar,oats,baking powder and soda,cinnamon powder,ginger powder,nutmeg,goji berries or raisins,almond milk,carrot",
+        "Vegan Homemade cosmic brownies": "eggs,sugar,cocoa powder,all purpose flour,baking powder,vegan butter,vanilla,chocolate chips,almond milk,rainbow chip sprinkles",
+        "Vegan Dark chocolate peanut butter swirl cupcakes": "all purpose flour,sugar,cocoa powder,baking powder and soda,almond milk,vegetable oil,white vinegar,vanilla extract,peanut butter,vegan butter,shortening",
+        "Vegan Hot chocolate cupcakes": "dark chocolate,coconut oil,all pupose flour,cocoa powder,baking powder and soda,sugar,almond milk,lemon juice,condensed coconut milk,coconut whipped cream,icing sugar",
+        "Coffee Brownies": "strong coffee,butter,semi sweet chocolate,brown sugar,sugar,eggs,all purpose flour,unsweetened baking chocolate,cream",
+        "Vegan chocolate peanut butter swirl brownies": "chocolate chips,all purpose flour,baking soda,flax eggs,brown sugar,coconut oil,vanilla extract,peanut butter",
+        "Vegan chocolate muffins": "oat flour,sugar,cocoa powder,baking powder and soda,chocolate chips,almond milk,applesauce,nut butter,apple cider vinegar,vanilla extract",
+        "Vegan Blueberry Muffins": "soy milk,apple cider vinegar,all purpose flour,sugar,baking powder,corn starch,vanilla extract,blueberries",
+        "Caramel Chocolate Brownies": "dates,vanilla extract,flax seeds,cocoa powder,peanut butter,maple syrup,coconut milk,sugar,peanut butter,chocolate chips",
+        "Old Fashioned Cake Doughnut Mini Muffins": "gluten free flour,baking powder,sugar,nutmeg,cinnamon,coconut milk,almond milk,applesauce,vanilla extract,coconut oil"
     },
     "recipe_url": {
         "Applesauce oat muffins": "https://tastesbetterfromscratch.com/healthy-applesauce-oat-muffins/#recipe",
@@ -51,6 +60,15 @@
         "Cinnamon Roll Muffins": "https://drive.google.com/file/d/1_VEuV4Q3p8RjL7prIA06TU-ekYTE47i_/view?usp=share_link",
         "Peanut Butter Brownie Cups No bake": "https://www.purelykaylie.com/no-bake-peanut-butter-brownie-cups/#tasty-recipes-14411-jump-target",
         "Vegan and Gluten Free Millionaires Shortbread cups": "https://upbeetandkaleingitblog.com/vegan-and-gluten-free-millionaires-shortbread-cups/",
-        "Vegan Carrot Cake Muffins with maple orange frosting": "https://www.theglowingfridge.com/carrot-cake-muffins-maple-orange-frosting/#_a5y_p=5809069"
+        "Vegan Carrot Cake Muffins with maple orange frosting": "https://www.theglowingfridge.com/carrot-cake-muffins-maple-orange-frosting/#_a5y_p=5809069",
+        "Vegan Homemade cosmic brownies": "https://www.thebakingfairy.net/2019/05/vegan-homemade-cosmic-brownies/#recipe",
+        "Vegan Dark chocolate peanut butter swirl cupcakes": "https://www.thebakingfairy.net/2019/08/vegan-dark-chocolate-peanut-butter-swirl-cupcakes/#recipe",
+        "Vegan Hot chocolate cupcakes": "https://theloopywhisk.com/2019/10/18/vegan-hot-chocolate-cupcakes/",
+        "Coffee Brownies": "https://freshaprilflours.com/coffee-brownies-mocha-frosting/#recipe",
+        "Vegan chocolate peanut butter swirl brownies": "https://jessicainthekitchen.com/vegan-chocolate-peanut-butter-swirl-brownies/#recipe",
+        "Vegan chocolate muffins": "https://elavegan.com/vegan-chocolate-muffins/#recipe",
+        "Vegan Blueberry Muffins": "https://www.noracooks.com/vegan-blueberry-muffins/",
+        "Caramel Chocolate Brownies": "https://elavegan.com/caramel-chocolate-brownies/",
+        "Old Fashioned Cake Doughnut Mini Muffins": "https://delightfuladventures.com/old-fashioned-cake-doughnut-mini-muffins/#recipe"
     }
 }
