@@ -3,32 +3,37 @@ import os
 import json
 
 def find_recipes_with_ingredient(ingr):
-    files = glob.glob('segregated_recipes/**/*.txt')
-    recipes = list()
-    recipe_dict = dict()
-    for file in files:
-        recipe_dict[file] = list()
-        f = open(file) 
-        for line in f.readlines():
-            if ingr in line:
-                groups = line.split(':')
-                recipe_name = groups[0].strip().rstrip().lstrip()
-                if ('.' in recipe_name):
-                    recipe_name = recipe_name.split('.')[1]
-                recipes.append('Located at ' + file.replace('segregated_recipes\\','').replace('.txt','').split('\\')[1] + ' : \n' + recipe_name)
-                recipe_dict[file].append(recipe_name)
-    final_recipe_dict = {}
-    for key in recipe_dict.keys():
-        if len(recipe_dict[key]) != 0:
-            final_recipe_dict[key] = recipe_dict[key]
-    
-    if not os.path.exists('searched_ingredient_recipes'):
-        os.mkdir('searched_ingredient_recipes')
-    f = open('searched_ingredient_recipes' + os.sep + 'search_for_ingredient-' + ingr + '.txt','w+')
-    for recip in recipes:
-        f.write(recip + '\n')
+    try:
+        files = glob.glob('segregated_recipes/**/*.txt')
+        recipes = list()
+        recipe_dict = dict()
+        for file in files:
+            try:
+                recipe_dict[file] = list()
+                with open(file) as f:
+                    for line in f.readlines():
+                        if ingr in line:
+                            groups = line.split(':')
+                            recipe_name = groups[0].strip().rstrip().lstrip()
+                            if ('.' in recipe_name):
+                                recipe_name = recipe_name.split('.')[1]
+                            recipes.append('Located at ' + file.replace('segregated_recipes\\','').replace('.txt','').split('\\')[1] + ' : \n' + recipe_name)
+                            recipe_dict[file].append(recipe_name)
+            except Exception as e:
+                logging.error(f"Error processing file {file}: {e}")
 
-    return final_recipe_dict
+        final_recipe_dict = {key: value for key, value in recipe_dict.items() if len(value) != 0}
+
+        if not os.path.exists('searched_ingredient_recipes'):
+            os.mkdir('searched_ingredient_recipes')
+        with open('searched_ingredient_recipes' + os.sep + 'search_for_ingredient-' + ingr + '.txt','w+') as f:
+            for recip in recipes:
+                f.write(recip + '\n')
+
+        return final_recipe_dict
+    except Exception as e:
+        logging.error(f"Error in find_recipes_with_ingredient: {e}")
+        return {}
 
 def intersection(lst1, lst2):
     return list(set(lst1) & set(lst2))
@@ -73,28 +78,32 @@ def create_recipes_list_per_ingredient():
 #create_recipes_list_per_ingredient()
 
 def create_dictionaries_for_meals(meal_type):
-    fpath = r"segregated_recipes" + os.sep + meal_type
-    files = glob.glob(fpath + os.sep + "*.txt")
-    for file in files:
-        print(file)
-        f = open(file)
-        lines = f.readlines()
-        fname = file[:-4] + ".json"
-        ingredient_dict = dict()
-        recipe_url_dict = dict()
-        for line in lines:
-            if '(' in line:
-                recipe_name = line.split("(")[0].split('.')[1].strip()
-                ingredients = line.split("(")[1].split(')')[0].strip()
-                recipe_url = line.split(')')[1].strip().lstrip(':').lstrip(' ')
-                ingredient_dict[recipe_name] = ingredients
-                recipe_url_dict[recipe_name] = recipe_url
-        total_dict = {"ingredients":ingredient_dict,
-                      "recipe_url": recipe_url_dict
-                        }
-        json_object = json.dumps(total_dict, indent=4)
-        with open(fname, "w") as outfile:
-            outfile.write(json_object)
+    try:
+        fpath = r"segregated_recipes" + os.sep + meal_type
+        files = glob.glob(fpath + os.sep + "*.txt")
+        for file in files:
+            try:
+                with open(file) as f:
+                    lines = f.readlines()
+                fname = file[:-4] + ".json"
+                ingredient_dict = dict()
+                recipe_url_dict = dict()
+                for line in lines:
+                    if '(' in line:
+                        recipe_name = line.split("(")[0].split('.')[1].strip()
+                        ingredients = line.split("(")[1].split(')')[0].strip()
+                        recipe_url = line.split(')')[1].strip().lstrip(':').lstrip(' ')
+                        ingredient_dict[recipe_name] = ingredients
+                        recipe_url_dict[recipe_name] = recipe_url
+                total_dict = {"ingredients":ingredient_dict,
+                              "recipe_url": recipe_url_dict}
+                json_object = json.dumps(total_dict, indent=4)
+                with open(fname, "w") as outfile:
+                    outfile.write(json_object)
+            except Exception as e:
+                logging.error(f"Error processing file {file}: {e}")
+    except Exception as e:
+        logging.error(f"Error in create_dictionaries_for_meals: {e}")
 
 meal_types = ['dessert_recipes', 
 'international_lunch_and_dinner_recipes', 
@@ -124,9 +133,69 @@ def get_ingredients_recipe_url_dict(meal_type,index):
     for i,option in enumerate(available_options):
         available_option_string += f"{i}. {option};\n"
     #index = int(input("Select index you want : " + available_option_string))
-    json_file = available_files[index][:-4] + '.json'
+    try:
+        jf = available_files[index]
+    except:
+        print(meal_type)
+        print(fpath)
+        print(available_files)
+        print("Please select a valid index,available files are : ")
+        print(available_options)
+
+    json_file = jf[:-4] + '.json'
     f = open(json_file)
     data = json.load(f)
     ingredient_dict = data["ingredients"]
     recipe_dict = data["recipe_url"]
-    return ingredient_dict,recipe_dict    
+    instr_dict = data["Recipe"]
+    return ingredient_dict,recipe_dict,instr_dict    
+
+def update_json_with_new_urls(meal_type, index, updated_url_dict):
+    # Determine the JSON file path
+    fpath = r"segregated_recipes" + os.sep + meal_type
+    files = glob.glob(fpath + os.sep + "*.txt")
+    available_files = [file for file in files if os.path.basename(file).replace('.txt', '') != '']
+    
+    try:
+        json_file = available_files[index][:-4] + '.json'  # Get the JSON file path
+    except IndexError:
+        print(f"Invalid index {index}. Cannot update JSON.")
+        return
+
+    # Load the existing JSON data
+    with open(json_file, 'r') as f:
+        data = json.load(f)
+
+    # Update the recipe_url section with the new URL dictionary
+    data["recipe_url"] = updated_url_dict
+
+    # Write the updated data back to the JSON file
+    with open(json_file, 'w') as f:
+        json.dump(data, f, indent=4)
+
+    print(f"Updated JSON file: {json_file}")
+
+def add_key_value_to_json(meal_type, index, new_key, new_value):
+    # Determine the JSON file path
+    fpath = r"segregated_recipes" + os.sep + meal_type
+    files = glob.glob(fpath + os.sep + "*.txt")
+    available_files = [file for file in files if os.path.basename(file).replace('.txt', '') != '']
+    
+    try:
+        json_file = available_files[index][:-4] + '.json'  # Get the JSON file path
+    except IndexError:
+        print(f"Invalid index {index}. Cannot update JSON.")
+        return
+
+    # Load the existing JSON data
+    with open(json_file, 'r') as f:
+        data = json.load(f)
+
+    # Add the new key-value pair
+    data[new_key] = new_value
+
+    # Write the updated data back to the JSON file
+    with open(json_file, 'w') as f:
+        json.dump(data, f, indent=4)
+
+    print(f"Added key '{new_key}' to JSON file: {json_file}")
