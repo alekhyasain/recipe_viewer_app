@@ -19,9 +19,8 @@ for file in files:
         types_of_recipes.append(option_string)
 
 for i,option in enumerate(types_of_recipes):
-    recipe_dict,url_dict,instr_dict = fri.get_ingredients_recipe_url_dict(meal_type,i)      
+    recipe_dict,url_dict = fri.get_ingredients_recipe_url_dict(meal_type,i)      
     st.subheader(f"{option}")
     st.selectbox(f"{option}", options=url_dict.keys(), key=f"{option}")
     st.write(recipe_dict[st.session_state[f"{option}"]])
     st.write(url_dict[st.session_state[f"{option}"]])
-    st.write(instr_dict[st.sessin_state[f"{option}"]])
